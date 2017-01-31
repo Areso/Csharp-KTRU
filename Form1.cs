@@ -9,9 +9,9 @@ using System.Data.SqlClient;
 
 namespace MyAppendDB
 {
-    public partial class Form1 : Form
+    public partial class Main : Form
     {
-        public Form1()
+        public Main()
         {
             InitializeComponent();
         }
@@ -43,6 +43,11 @@ namespace MyAppendDB
         {
             // TODO: This line of code loads data into the 'database1DataSet.MAIN' table. You can move, or remove it, as needed.
             this.mAINTableAdapter.Fill(this.database1DataSet.MAIN);
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
 
         }
     }

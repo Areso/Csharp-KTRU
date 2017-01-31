@@ -9,3 +9,15 @@ D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\bin\Debug\Database1.mdf
 D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\bin\Debug\Database1_log.ldf
 D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\bin\Debug\MyAppendDB.exe.config
 D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\obj\Debug\MyAppendDB.Form1.resources
+D:\DEVELOPMENT\CSharp-KTRU\bin\Debug\MyAppendDB.exe.config
+D:\DEVELOPMENT\CSharp-KTRU\obj\Debug\MyAppendDB.exe
+D:\DEVELOPMENT\CSharp-KTRU\obj\Debug\MyAppendDB.pdb
+D:\DEVELOPMENT\CSharp-KTRU\bin\Debug\Database1_log.ldf
+D:\DEVELOPMENT\CSharp-KTRU\bin\Debug\Database1.mdf
+D:\DEVELOPMENT\CSharp-KTRU\bin\Debug\MyAppendDB.exe
+D:\DEVELOPMENT\CSharp-KTRU\bin\Debug\MyAppendDB.pdb
+D:\DEVELOPMENT\CSharp-KTRU\obj\Debug\ResolveAssemblyReference.cache
+D:\DEVELOPMENT\CSharp-KTRU\obj\Debug\MyAppendDB.Database1.mdf
+D:\DEVELOPMENT\CSharp-KTRU\obj\Debug\MyAppendDB.Properties.Resources.resources
+D:\DEVELOPMENT\CSharp-KTRU\obj\Debug\MyAppendDB.csproj.GenerateResource.Cache
+D:\DEVELOPMENT\CSharp-KTRU\obj\Debug\MyAppendDB.Main.resources
