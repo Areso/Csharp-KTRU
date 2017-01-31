@@ -1,0 +1,11 @@
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\bin\Debug\MyAppendDB.exe
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\bin\Debug\MyAppendDB.pdb
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\obj\Debug\ResolveAssemblyReference.cache
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\obj\Debug\MyAppendDB.Properties.Resources.resources
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\obj\Debug\MyAppendDB.csproj.GenerateResource.Cache
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\obj\Debug\MyAppendDB.exe
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\obj\Debug\MyAppendDB.pdb
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\bin\Debug\Database1.mdf
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\bin\Debug\Database1_log.ldf
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\bin\Debug\MyAppendDB.exe.config
+D:\DEVELOPMENT\MyAppendDBsharp\MyAppendDB\obj\Debug\MyAppendDB.Form1.resources
